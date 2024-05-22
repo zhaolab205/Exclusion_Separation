@@ -20,8 +20,8 @@ Atlas: The brain map used in this study.
 
 This repository contains code used to devlop and test the PSSE/PSSS/PSSEvS/PSSEaS.
 
-The additional data and thresholded maps are available at https://figshare.com/articles/dataset/PSSES_addition_data_zip/25650696
-
+The additional data and thresholded maps are available at [https://figshare.com/articles/dataset/PSSES_addition_data_zip/25650696
+](https://figshare.com/articles/dataset/Social_pain_empathy/25878586) https://figshare.com/articles/dataset/Decoder/25878445 and https://figshare.com/articles/dataset/Thresholded_maps/25878523
 # Dependencies: These should be installed to use this code
 
 MATLAB www.mathworks.com (tested on 2015b)
